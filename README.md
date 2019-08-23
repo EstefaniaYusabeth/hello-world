@@ -1,2 +1,2 @@
 # hello-world
-tryign to get familiar with Git
+trying to get familiar with Git
